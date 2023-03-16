@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Leandro Nazareth
-- 👀 Tenho interesse em Java, Angular, Spring Boot, Swagger, Testcontainers, Flyway, TDD Test-Driven Development, SOLID E DDD
+- 👀 Tenho interesse em Java, Angular, Spring Boot, C#, .Net, Swagger, Testcontainers, Flyway, TDD Test-Driven Development, SOLID E DDD
 - 🌱 Estou estudando TDD, SOLID E DDD
 
 <div align="center">
@@ -9,6 +9,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
