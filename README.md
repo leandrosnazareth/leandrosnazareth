@@ -1,7 +1,22 @@
-- 👋 Olá, eu sou Leandro Nazareth
-- 👀 Tenho interesse em Java, Angular, Spring Boot, C#, .Net, Swagger, Testcontainers, Flyway, TDD Test-Driven Development, SOLID E DDD
-- 🌱 Estou estudando TDD, SOLID E DDD
+# 👋 Olá, eu sou Leandro Nazareth!
 
+Programador Java Full Stack, mas com um pé (ou dois) nas segundas melhores linguagens do mercado, como Python, C#, Delphi, JavaScript, C, e até um Assembly para brincar – porque a vida de programador precisa de um toque de loucura.
+
+## 💻 O que faço?
+
+Atualmente, estou focado em automação de processos com Java e inteligência artificial, unindo lógica e criatividade para resolver problemas complexos.
+
+## 🌟 Contribuições e paixões
+
+Sou um entusiasta de projetos open source e acredito que o conhecimento deve ser compartilhado. Sempre estou por aí, colaborando, aprendendo e ajudando a construir algo maior.
+
+## 🎮 E nas horas vagas?
+
+Quando não estou programando ou desvendando mistérios do código, gosto de jogar ou reinventar soluções que já existem no mercado – porque inovar pelo desafio é sempre mais divertido, mesmo que ninguém vá comprar.
+
+---
+
+Seja para discutir ideias ou trocar figurinhas sobre código, estou por aqui! 🚀
 <div align="center">
   <a href="https://github.com/leandrosnazareth">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosnazareth&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -35,3 +50,11 @@
  <div>
  <a href = "mailto:leandrosnazareth@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/leandrosnazareth" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
+ ### 🌱 Aprimorando Habilidades
+
+Atualmente, estou focado em aprofundar meus conhecimentos em duas áreas-chave para o desenvolvimento de software moderno:
+
+-   **Princípios SOLID:** Reforçando a base para construir sistemas com código limpo, coeso, de fácil manutenção e alta escalabilidade.
+-   **Automação de Processos com IA:** Explorando como integrar Inteligência Artificial em sistemas Java para criar automações inteligentes, otimizar fluxos de trabalho e agregar mais valor aos projetos.
